@@ -13,3 +13,8 @@ Password Strength Checker is a Python tool that evaluates the strength of passwo
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Usage
+'''bash
+
+python password_checker.py
